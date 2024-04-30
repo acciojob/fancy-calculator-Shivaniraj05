@@ -5,4 +5,4 @@ let mult = parseInt(x)*2;
 let y= prompt();
 let ans = mult + parseInt(y);
 
-alert("The final result is:" + ans);
+alert("The final result is: " + ans);
